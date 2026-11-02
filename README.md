@@ -25,6 +25,10 @@
 
 ## 含めていないもの
 
-このリポジトリは track.php・assets/accounts.js・README.md・SHA256SUMS・LICENSE だけです。
+このリポジトリは track.php・assets/accounts.js・README.md・SHA256SUMS だけです。
 
 `source.zip` の xlsx、訪問ログ（`data/logs/`）、メールの画像、HTML は、個人情報や認証情報を含む、または含む可能性があるため入れていません。
+
+## ライセンス
+
+`track.php` と `assets/accounts.js` は第三者のコードをそのまま保存したもので、ライセンスは付与していません。
